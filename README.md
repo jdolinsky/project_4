@@ -8,6 +8,10 @@ Microsoft Corporation is an American multinational technology corporation headqu
 
 In the first part of the project we conducted exploratory analysis for the adjusted stock price, volume, and percent change overtime using pandas and Plotly libraries.
 
+![Image](/graphs/price_overtime.png)
+
+![Image](/graphs/change_rate_price_volume.png)
+
 The second part was Machine Learning analysis that included data preparation, model fitting and evaluation.
 
 ## Data Source
