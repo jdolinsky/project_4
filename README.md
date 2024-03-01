@@ -12,6 +12,10 @@ In the first part of the project we conducted exploratory analysis for the adjus
 
 ![Image](/graphs/change_rate_price_volume.png)
 
+We also used a candlestick chart to illustrate the daily price move.
+
+![Image](/graphs/image.png)
+
 The second part was Machine Learning analysis that included data preparation, model fitting and evaluation.
 
 ## Data Source
