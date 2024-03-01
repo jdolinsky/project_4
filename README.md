@@ -6,7 +6,7 @@ In this project we used Machine Learning with several techniques and model types
 
 Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft was founded in 1975 and went public in March 13, 1986. We picked Microsoft because we can get almost 38 years of the historical data for the stock price. 
 
-In the first part of the project we conducted exploratory analysis for the adjusted stock price, volume, and percent change overtime using pandas and Plotly libraries.
+In the first part of the project, we conducted exploratory analysis for the adjusted closing price, volume, and percent change overtime using pandas and Plotly libraries.
 
 ![Image](/graphs/price_overtime.png)
 
